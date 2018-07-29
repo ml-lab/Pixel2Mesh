@@ -6,4 +6,4 @@ Nanyang Wang*, Yinda Zhang*, Zhuwen Li*, Yanwei Fu, Wei Liu, Yu-Gang Jiang. (*Eq
 # Project Page
 The project page is available at http://bigvid.fudan.edu.cn/pixel2mesh
 
-# Codes and Datasets: Coming soon!
+# Code and Dataset: Coming soon!
